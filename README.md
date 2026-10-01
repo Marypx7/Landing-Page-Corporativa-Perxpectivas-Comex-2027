@@ -12,6 +12,18 @@ O projeto foi desenvolvido desde o planejamento da estrutura até a implementaç
 
 A página reúne informações sobre o evento, palestrantes, atrações, programação e direcionamentos para inscrição e transmissão online.
 
+## 🎨 UX/UI Design
+
+A etapa de design foi desenvolvida no **Figma**, contemplando:
+
+- Planejamento da estrutura da Landing Page
+- Organização e hierarquia das informações
+- Criação do layout e componentes visuais
+- Aplicação da identidade visual do evento
+- Planejamento dos CTAs e fluxo de navegação
+- Adaptação da interface para diferentes dispositivos
+- Prototipação antes da implementação em código
+
 ## Desenvolvimento
 
 - Estruturação e organização do conteúdo
