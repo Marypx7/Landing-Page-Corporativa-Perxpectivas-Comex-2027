@@ -1,0 +1,18 @@
+:root {
+    --clr-primitive-ciano: #00ffcc;
+    --clr-primitive-azul: #0031ff;
+    --clr-primitive-azulclaro: #0099ff;
+    --clr-primitive-roxo: #7166ff;
+    --clr-primitive-azulescuro: #010742;
+    --clr-primitive-verde: #07c955;
+    --clr-primitive-preto: #000000;
+    --clr-primitive-branco: #ffffff;
+}
+
+/* Base responsiva de tipografia
+   Ajusta o `rem` de forma fluida entre 14px e 18px
+   para que textos em `rem` se posicionem corretamente
+   em todos os tamanhos de tela (incl. iPhone). */
+html {
+    font-size: clamp(14px, 1.3vw, 18px);
+}
