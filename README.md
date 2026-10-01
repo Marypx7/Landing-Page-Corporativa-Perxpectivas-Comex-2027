@@ -4,7 +4,7 @@ Landing Page desenvolvida para o **Perxpectivas Comex 2027**, evento voltado ao 
 
 ## 🌐 Projeto Online
 
-🔗 [Acessar Landing Page]
+[🔗 [Acessar Landing Page]](https://marypx7.github.io/Landing-Page-Corporativa-Perxpectivas-Comex-2027/)
 
 ## Sobre o projeto
 
