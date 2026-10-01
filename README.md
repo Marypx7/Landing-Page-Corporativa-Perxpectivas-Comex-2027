@@ -2,6 +2,10 @@
 
 Landing Page desenvolvida para o **Perxpectivas Comex 2027**, evento voltado ao comércio exterior, tendências, economia e inovação.
 
+## 🌐 Projeto Online
+
+🔗 [Acessar Landing Page]
+
 ## Sobre o projeto
 
 O projeto foi desenvolvido desde o planejamento da estrutura até a implementação e testes da página, seguindo a identidade visual oficial do evento.
